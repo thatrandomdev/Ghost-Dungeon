@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/marga/Ghost Dungeon/WebGL Builds/Ghost Dungeon Thingy 2;C:/Users/marga/Ghost Dungeon/WebGL Builds/Ghost Dungeon Thingy;C:/Users/marga/Ghost Dungeon/WebGL Builds/Ghost Dungeon 1.0.1;C:/Users/marga/Ghost Dungeon/WebGL Builds/Ghost Dungeon 1.0;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/FINAL;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/Ghost Dungeon 0.1;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/Game;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/Game1;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/Ghost Game;C:/Users/marga/Ghost Game Mini Jam/WebGL Builds/Numero Uno\"}"
+            }
+        ]
+    }
+}
